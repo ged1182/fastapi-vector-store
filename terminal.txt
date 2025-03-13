@@ -1,1 +1,3 @@
 uv init
+uv add fastapi uvicorn asyncpg pydantic-settings pgvector
+touch settings.py
